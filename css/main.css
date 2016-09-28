@@ -20,6 +20,7 @@ h1 {
 
 #logo a {
 	color: #487b83;
+	outline: none;
 }
 
 h2 {
@@ -54,6 +55,7 @@ h2 {
 	color: #8d736c;
 	line-height: 1.6rem;
 	border: 1px solid transparent;
+	outline: none;
  }
 
 .navbar li a:hover, .navbar li a:focus {
